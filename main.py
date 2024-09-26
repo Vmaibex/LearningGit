@@ -7,7 +7,7 @@ def hello():
     print("hello")
 
 
-def sep():
+def sep(opt: str):
     print("def world():")
     pass
 
