@@ -4,6 +4,11 @@ def main():
 
 
 def hello():
+    print("hello")
+
+
+def sep():
+    print("def world():")
     pass
 
 
